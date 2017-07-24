@@ -1,0 +1,3 @@
+create table categorie(annee, categorie);
+.mode csv
+.import categories.csv catégorie
